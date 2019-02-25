@@ -799,3 +799,1005 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
 
+1551016049298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551017187624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.WLaWSeHajFYQ"
+1551017188264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551017188264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551017190192	Marionette	INFO	Listening on port 53312
+1551017190202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551017377944	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551017379141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551017716670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.X4A1wdAeVIb2"
+1551017717314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551017717314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551017719297	Marionette	INFO	Listening on port 53674
+1551017719349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1367, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+1551020396213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.aA8LJTZ7po7v"
+1551020396850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551020396850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551020398787	Marionette	INFO	Listening on port 54428
+1551020398904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551020454118	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551020454841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551020557948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.SC6ufxrrY192"
+1551020558618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551020558618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551020560431	Marionette	INFO	Listening on port 54570
+1551020560537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551020604551	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551020656170	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551020656904	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551020891077	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551020926158	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551020980661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551020981492	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021024744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021082335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021103882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021143862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021160875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551021161602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021194766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021373216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021412933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551021414147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021430289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021464800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551021465526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021519320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551021520573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021563796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021621680	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021643924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021683591	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551021684321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551021700313	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551051339885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.6gIwgPgceljF"
+1551051340883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551051340883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551051343832	Marionette	INFO	Listening on port 49348
+1551051343896	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551051393227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.yLLGPj5gEavv"
+1551051393935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551051393935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551051395865	Marionette	INFO	Listening on port 49508
+1551051395913	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551051535674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.k3JgegHChEJ2"
+1551051536449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551051536450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551051538356	Marionette	INFO	Listening on port 49646
+1551051538458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551051582343	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551051633454	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.22, line 93: unreachable code after return statement
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.22, line 93: unreachable code after return statement
+1551051731606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551051732529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1551052048560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.CDUrlvfPmxdL"
+1551052049204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052049205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052051131	Marionette	INFO	Listening on port 50445
+1551052051226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551052055869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551052056594	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551052115883	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.pR4sSamCz9S0"
+1551052116597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052116598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052118503	Marionette	INFO	Listening on port 51030
+1551052118563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551052121854	Marionette	INFO	Stopped listening on port 51030
+1551052172512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.I06Xvj8vwZHC"
+1551052173221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052173221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052175195	Marionette	INFO	Listening on port 51116
+1551052175286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551052178550	Marionette	INFO	Stopped listening on port 51116
+1551052193671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.4JV6LWhNNHz5"
+1551052194427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052194428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052196278	Marionette	INFO	Listening on port 51204
+1551052196368	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551052238173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.w9TSgbZtwatg"
+1551052238893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052238893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052240695	Marionette	INFO	Listening on port 51258
+1551052240758	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551052413351	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.sJoc3veEfX2g"
+1551052414173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052414174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052416066	Marionette	INFO	Listening on port 51311
+1551052416153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551052461244	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551052461977	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052478316	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052512593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052567623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052611513	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052669500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 767, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+1551052718518	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.lZGVfvHcvqkO"
+1551052719185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551052719185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551052721080	Marionette	INFO	Listening on port 52304
+1551052721116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052872341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551052873075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551052994967	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551053343119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.OefxKt6RIAka"
+1551053343905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551053343905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551053345764	Marionette	INFO	Listening on port 52661
+1551053345807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551053601527	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551053775259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551053965206	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551053968740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054030305	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054052704	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054196715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054236191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551054237405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054449924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551054450760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054472039	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551054473184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551054516238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.U54dWt8TpuIY"
+1551054516995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551054516996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551054518830	Marionette	INFO	Listening on port 52978
+1551054518936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551054563997	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551054564775	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551054581058	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551055128501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551055911791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551056231800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551056232846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551056463673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.sQzGagtq5ZOq"
+1551056464385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551056464386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551056466318	Marionette	INFO	Listening on port 53375
+1551056466384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057102579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057267808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057268913	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057310411	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057311199	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057352610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057353337	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057394948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057395954	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057437454	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057438180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057479593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057521693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057563972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057606122	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057606854	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057648491	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057690374	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057732252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551057733507	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057774872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057816739	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057859073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057901110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057943287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551057984834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058026985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551058027711	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058069142	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058111010	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058152434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551058153858	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058195608	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058237540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058279353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058321245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058362874	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058404667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058446075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551058447361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058488531	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058530519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551058572605	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551074584021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.tyb36pIPArmO"
+1551074585005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551074585006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551074587778	Marionette	INFO	Listening on port 49260
+1551074587828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551074740468	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551074741594	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551074888608	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551074889422	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551075037420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551075038143	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551075186061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551075480070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551075481188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551075627853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 29: NS_ERROR_FAILURE: Failure
+1551075978969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551075980008	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: , line 0: uncaught exception: Timeout
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1551081735821	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.DPKsARMUUWE3"
+1551081736869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081736869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551081739031	Marionette	INFO	Listening on port 49267
+1551081739138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1551081833997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.QIQwTvmefCWV"
+1551081834712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081834712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551081836495	Marionette	INFO	Listening on port 49448
+1551081836567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551081908092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.21Qb2MEQtRFU"
+1551081908707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081908707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551081910527	Marionette	INFO	Listening on port 49563
+1551081910572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551082019858	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551082077146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082078118	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551082205443	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551082261347	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1551082317382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vl/3m6b351j2dbbhklxs4rf4qs80000gn/T/rust_mozprofile.jxI3uGA6vo1V"
+1551082318068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551082318068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551082319952	Marionette	INFO	Listening on port 50321
+1551082320049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551082356364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082357408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082442325	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082443355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082526348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082527096	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082608267	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082609345	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082689627	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082690671	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082770612	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082771673	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082851554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082852628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551082933741	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551082934799	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551083016352	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083017435	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551083097818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083098877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551083179376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083180447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551083261864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083262895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551083342771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083343860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1551083423510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083424575	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083558298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083559509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083625252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083692028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083692834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083758789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083759975	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083825852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083892155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083893140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551083958633	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551083959723	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084026593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084027318	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084093501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084094732	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084160292	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084226650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084294378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084362352	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084363377	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084429289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084430541	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084496872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084563852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084564860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084634657	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084635380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084706203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084772212	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084773462	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084838864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084840224	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084906016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084907195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551084973216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551084973939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551085039846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1551085040582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
+1551085107215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.ahm9lZJMgh0.O/rt=j/d=1/rs=AMjVe6jBU3mrBPdpBAY-6LnsKc4PCplVfQ/m=viewer_base line 555 > eval, line 8: ReferenceError: chrome is not defined
